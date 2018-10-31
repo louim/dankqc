@@ -13,7 +13,7 @@ This will install dependencies an run the dev server for you.
 
 ## Todo
 
-This bot started has an idea from a work colleague. The bot in his final form would tweet when items come back in stock on the website. What's currently missing?
+This bot started as an idea from a work colleague. The bot in his final form would tweet when items come back in stock on the website. What's currently missing?
 
 *Missing features*
 
