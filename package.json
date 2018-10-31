@@ -1,0 +1,18 @@
+{
+  "name": "dankqc",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Louis-Michel Couture <louismichel.couture@hooktstudios.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon --inspect src/",
+    "start": "node src/"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.5"
+  }
+}
